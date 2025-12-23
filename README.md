@@ -78,6 +78,20 @@ const developer = {
 
 ---
 
+## 💼 Work Experience
+
+### 🚀 Frontend Developer Intern — PRNK Infotech LLC (Algobeat)
+**Aug 2025 – Feb 2026 (6 Months)**
+
+- 🧩 Led frontend development for a **scalable analytics dashboard** using **React, TypeScript, and Next.js**
+- ⚡ Boosted performance with **TanStack Query**, optimized API calls, and improved Lighthouse score to **95+**
+- 🔐 Built **secure authentication flows** (login, signup, reset password)
+- 🎨 Developed **responsive, reusable UI components** with TailwindCSS
+- 🛠️ Fixed **50+ UI/UX and API integration issues** for production stability
+- 🤝 Worked cross-functionally with backend & design teams for **pixel-perfect execution**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎉 [Festify - Advanced IoT Event Management Ecosystem](https://github.com/Abhishek1334/Festify)
@@ -156,6 +170,7 @@ Vivekananda Institute of Professional Studies (VIPS), Delhi | **CGPA: 8.0**
 - 🧮 **Newton School - SQL Fundamentals Certificate** *(Mar 2025)*
 
 ---
+
 
 ## 🌱 Currently Working On
 
