@@ -35,7 +35,7 @@ const developer = {
 ```
 ## 💼 Work Experience
 
-### **Frontend Developer Intern — PRNK Infotech LLP**  
+### **Frontend Developer Intern — Algobeat (formerly PRNK Infotech)**  
 📍 Work From Home · 🗓️ Aug 2025 – Feb 2026
 
 - Built and shipped production frontend features using React, TypeScript, Next.js, and TanStack Query across SaaS and client projects.
@@ -43,7 +43,7 @@ const developer = {
 - Collaborated with backend developers on API contracts, debugging, data validation, and integration issues while reviewing and testing features end to end.
 - Progressed from implementing assigned features to coordinating frontend work, reviewing changes, supporting developers, and participating directly in client demos and requirement discussions.
 
-### **Software Developer — PRNK Infotech LLP**  
+### **Software Developer — Algobeat (formerly PRNK Infotech)**  
 📍 Work From Home · 🗓️ Feb 2026 – May 2026
 
 - Led the frontend of a client-facing B2B Google Ads SaaS platform, building campaign workflows, 11 analytics dashboards, account management, reporting, and optimization features.
@@ -68,7 +68,6 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **State Management & Data** 📊
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -76,7 +75,6 @@ const developer = {
 ### **Backend & Authentication** 🔐
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OTP](https://img.shields.io/badge/OTP-4285F4?style=for-the-badge&logo=otp&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-CA4245?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -84,9 +82,6 @@ const developer = {
 ### **Database & ORM** 🗄️
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### **Cloud & Deployment** ☁️
@@ -98,10 +93,7 @@ const developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
@@ -190,7 +182,7 @@ const current = {
 
 - 🏗️ **SaaS-Focused**: Built and shipped production features for B2B SaaS platforms end to end
 - 📈 **Performance-Driven**: Improved Lighthouse scores from 50 to 95 through frontend optimization
-- 🔐 **Auth & Payments**: Implemented JWT/OAuth authentication and Stripe payment integrations
+- 🔐 **Auth & Payments**: Implemented JWT/Session authentication and Stripe payment integrations
 - 🎨 **UI/UX Minded**: Creating intuitive, modern user experiences with data-heavy interfaces
 - 🚀 **Full Stack**: Comfortable across React, Next.js, Node.js, React Native, and cloud deployments
 
