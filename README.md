@@ -32,37 +32,40 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ### Frontend
 
-<table width="100%"><tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="48" /></td>
-</tr>
-<tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white" height="48" /></td>
-<td align="center" width="25%"></td>
-</tr></table>
+<div align="center">
+
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white)
+
+</div>
 
 ### Backend
 
-<table width="100%"><tr>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="48" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="48" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="48" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="48" /></td>
-</tr></table>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
 
 ### AI / Infra
 
-<table width="100%"><tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/BullMQ-F56508?style=for-the-badge&logo=rabbitmq&logoColor=white" height="48" /></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" height="48" /></td>
-</tr></table>
+<div align="center">
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-F56508?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
 
 ## 🚀 Projects
 
