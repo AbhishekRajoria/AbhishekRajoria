@@ -33,13 +33,16 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 ### Frontend
 
 <table width="100%"><tr>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="48" /></td>
-<td align="center" width="14%"><img src="https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="48" /></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="48" /></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Zustand-007acc?style=for-the-badge&logo=zustand&logoColor=white" height="48" /></td>
+<td align="center" width="25%"></td>
 </tr></table>
 
 ### Backend
