@@ -30,8 +30,10 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ## 📚 Stack
 
-<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<div align="center" style="margin-top:28px; margin-bottom:16px;">
 <img src="https://img.shields.io/badge/-Frontend-6366F1?style=for-the-badge&labelColor=6366F1&color=6366F1" height="36" />
+<br>
+<img src="https://img.shields.io/badge/─────────────-d0d7de?style=flat&labelColor=d0d7de&color=d0d7de" height="4" />
 </div>
 
 <div align="center">
@@ -46,8 +48,10 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<div align="center" style="margin-top:28px; margin-bottom:16px;">
 <img src="https://img.shields.io/badge/-Backend-22C55E?style=for-the-badge&labelColor=22C55E&color=22C55E" height="36" />
+<br>
+<img src="https://img.shields.io/badge/─────────────-d0d7de?style=flat&labelColor=d0d7de&color=d0d7de" height="4" />
 </div>
 
 <div align="center">
@@ -60,8 +64,10 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<div align="center" style="margin-top:28px; margin-bottom:16px;">
 <img src="https://img.shields.io/badge/-AI___Infra-8B5CF6?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" height="36" />
+<br>
+<img src="https://img.shields.io/badge/─────────────-d0d7de?style=flat&labelColor=d0d7de&color=d0d7de" height="4" />
 </div>
 
 <div align="center">
