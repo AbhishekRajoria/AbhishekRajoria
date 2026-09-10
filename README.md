@@ -30,9 +30,11 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ## 📚 Stack
 
-<div align="center">
+<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
+<b>Frontend</b>
+</div>
 
-### Frontend
+<div align="center">
 
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -44,9 +46,11 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
+<b>Backend</b>
+</div>
 
-### Backend
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -56,9 +60,11 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
+<b>AI / Infra</b>
+</div>
 
-### AI / Infra
+<div align="center">
 
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -127,6 +133,7 @@ Redis sliding-window rate limiter + BullMQ job queue + PostgreSQL delivery logs.
 <div align="center">
 
 <a href="https://abhishek-rajoria.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
+<a href="https://docs.google.com/document/d/1l3KAMTeaD2VUH-TBmidXfLC8SCHDg-JvO75Kt0Q6-84/edit?tab=t.0"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" height="48" /></a>
 <a href="https://linkedin.com/in/AbhishekRajoria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="48" /></a>
 <a href="mailto:AbhishekRajoria24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="48" /></a>
 
