@@ -30,9 +30,9 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ## 📚 Stack
 
-### Frontend
-
 <div align="center">
+
+### Frontend
 
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js App Router](https://img.shields.io/badge/Next.js_App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -44,9 +44,9 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-### Backend
-
 <div align="center">
+
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -56,9 +56,9 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-### AI / Infra
-
 <div align="center">
+
+### AI / Infra
 
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
