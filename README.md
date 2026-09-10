@@ -30,8 +30,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ## 📚 Stack
 
-<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
-<b>Frontend</b>
+<div align="center" style="margin-top:20px; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
+<b style="font-size:18px; color:#1f2328;">Frontend</b>
 </div>
 
 <div align="center">
@@ -46,8 +46,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
-<b>Backend</b>
+<div align="center" style="margin-top:20px; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
+<b style="font-size:18px; color:#1f2328;">Backend</b>
 </div>
 
 <div align="center">
@@ -60,8 +60,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:16px; margin-bottom:8px; padding-bottom:6px; border-bottom:2px solid #d0d7de;">
-<b>AI / Infra</b>
+<div align="center" style="margin-top:20px; margin-bottom:12px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
+<b style="font-size:18px; color:#1f2328;">AI / Infra</b>
 </div>
 
 <div align="center">
