@@ -30,10 +30,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 ## 📚 Stack
 
-<div align="center" style="margin-top:24px; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
-
-### Frontend
-
+<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<img src="https://img.shields.io/badge/-Frontend-6366F1?style=for-the-badge&labelColor=6366F1&color=6366F1" height="36" />
 </div>
 
 <div align="center">
@@ -48,10 +46,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:24px; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
-
-### Backend
-
+<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<img src="https://img.shields.io/badge/-Backend-22C55E?style=for-the-badge&labelColor=22C55E&color=22C55E" height="36" />
 </div>
 
 <div align="center">
@@ -64,10 +60,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 
 </div>
 
-<div align="center" style="margin-top:24px; margin-bottom:16px; padding-bottom:8px; border-bottom:2px solid #d0d7de;">
-
-### AI / Infra
-
+<div align="center" style="margin-top:24px; margin-bottom:12px;">
+<img src="https://img.shields.io/badge/-AI___Infra-8B5CF6?style=for-the-badge&labelColor=8B5CF6&color=8B5CF6" height="36" />
 </div>
 
 <div align="center">
