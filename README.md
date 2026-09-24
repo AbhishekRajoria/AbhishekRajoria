@@ -114,6 +114,7 @@ ESP8266/RC522 RFID check-in + dual JWT auth, deployed end to end.<br>
 **Developer monitoring platform**
 
 <a href="https://github.com/AbhishekRajoria/PulseKit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" height="48" /></a>
+<a href="https://get-pulsekit.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
 
 Redis sliding-window rate limiter + BullMQ job queue + PostgreSQL delivery logs. **In progress.**<br>
 <sub>Next.js · Redis · BullMQ · PostgreSQL</sub>
