@@ -57,6 +57,7 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 </div>
 
@@ -86,7 +87,7 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 <a href="https://getpulsekit.cloud/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
 <a href="https://www.npmjs.com/package/pulsekit-sdk"><img src="https://img.shields.io/badge/SDK-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="48" /></a>
 
-One SDK call fans out to email, Slack, and in-app with retries, rate limiting, and a live dashboard. Live in production with 38/38 integration tests over real Postgres + Redis.<br>
+One SDK call fans out to email, Slack, and in-app with retries, rate limiting, and a live dashboard. Live in production with 40/40 integration tests over real Postgres + Redis.<br>
 <sub>Next.js · Express · PostgreSQL · Redis · BullMQ · Resend · TypeScript</sub>
 
 --- 
