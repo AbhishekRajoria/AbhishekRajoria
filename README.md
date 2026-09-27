@@ -22,8 +22,8 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
       <span style="color:#57606a; font-size:14px;">Analytics interfaces · real-time charts</span>
     </td>
     <td align="center" width="33%" style="padding:14px 8px; border:1px solid #d8dee4; border-radius:12px; background:#f6f8fa;">
-      <b>💳 Full-Stack Products</b><br>
-      <span style="color:#57606a; font-size:14px;">Payment flows · real-time systems</span>
+      <b>📡 Notification Infra & SDKs</b><br>
+      <span style="color:#57606a; font-size:14px;">BullMQ queues · rate limiting · published npm SDK</span>
     </td>
   </tr>
 </table>
@@ -69,13 +69,27 @@ Full-stack engineer based in **New Delhi**. 10 months production experience as *
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-F56508?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 </div>
 
 ## 🚀 Projects
 
 <div align="center">
+
+### 📡 PulseKit
+**Notification infrastructure with an SDK**
+
+<a href="https://github.com/AbhishekRajoria/PulseKit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" height="48" /></a>
+<a href="https://getpulsekit.cloud/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
+<a href="https://www.npmjs.com/package/pulsekit-sdk"><img src="https://img.shields.io/badge/SDK-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="48" /></a>
+
+One SDK call fans out to email, Slack, and in-app with retries, rate limiting, and a live dashboard. Live in production with 38/38 integration tests over real Postgres + Redis.<br>
+<sub>Next.js · Express · PostgreSQL · Redis · BullMQ · Resend · TypeScript</sub>
+
+--- 
 
 ### 📈 MarketPulse
 **Stock analytics SPA with AI assistant**
@@ -110,15 +124,6 @@ ESP8266/RC522 RFID check-in + dual JWT auth, deployed end to end.<br>
 
 ---
 
-### 📡 PulseKit
-**Developer monitoring platform**
-
-<a href="https://github.com/AbhishekRajoria/PulseKit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" height="48" /></a>
-<a href="https://get-pulsekit.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
-
-Redis sliding-window rate limiter + BullMQ job queue + PostgreSQL delivery logs. **In progress.**<br>
-<sub>Next.js · Redis · BullMQ · PostgreSQL</sub>
-
 </div>
 
 ---
@@ -126,9 +131,8 @@ Redis sliding-window rate limiter + BullMQ job queue + PostgreSQL delivery logs.
 ## 🎯 Currently
 
 - 🔍 Open to **remote or Delhi/NCR** frontend & fullstack roles
-- 🚧 Building **PulseKit** — alerting and monitoring infrastructure
+- 📡 Maintaining **PulseKit** — notification infrastructure, [live in production](https://getpulsekit.cloud/) + published `pulsekit-sdk` on npm
 - 🌐 Portfolio → [abhishek-rajoria.vercel.app](https://abhishek-rajoria.vercel.app)
-
 ---
 
 <div align="center">
